@@ -1,10 +1,5 @@
 # Building regenerative data mosaics for place-based insight
 
-This repository hosts the documentation and design logic behind the Situated Insight Project — a system for federated, consent-based climate verification rooted in local agricultural practice. This is a conceptual framework in development. Feedback and collaboration are welcome. 
-
-## Contents
-# Building regenerative data mosaics for place-based insight
-
 This repository hosts the documentation and design logic behind the Situated Insight Project —  
 a system for federated, consent-based climate verification rooted in local agricultural practice.
 
