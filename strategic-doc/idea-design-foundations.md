@@ -85,13 +85,12 @@ they gain visibility into trends, support adaptive decisions, and become recogni
 in global climate data systems.
 
 > Logging + enrichment → insight → action → recognition
-> &nbsp;
+&nbsp;
 
-<figure style="text-align: center;">
+<div align="center">
 <img src="../diagrams/vsflow2025-05-23-1047.png" alt="Governance" width="1000"/>
-  <figcaption><em>Figure 3:</em> Traditional MRV vs Regenerative MRV
-</figcaption>
-</figure>
+ <em>Figure 3:  Traditional MRV vs Regenerative MRV</em>
+</div>
 
 
 
