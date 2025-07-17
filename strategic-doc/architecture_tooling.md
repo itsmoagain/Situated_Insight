@@ -248,41 +248,96 @@ The agent doesn’t just interpret a log — it situates it within an evolving, 
 
 This is not a backend-only system. The DAO stack is designed to return enriched, usable insights to contributors — turning data into real-time decision support and validation.
 
-### __Contributor dashboards may include:__ ###
+### __Contributor dashboards - What They See__ ###
 
-- Practice timelines with climate overlays
-
-- Yield and harvest records by season or anomaly year
-
-- “Resilience scorecards” for individual or community practices
-
-- Custom queries like: _“Show all no-till events during years with >2°C temperature anomaly”_
+<table>
+  <thead>
+    <tr>
+      <th>Dashboard Element</th>
+      <th>What It Shows</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Practice Timeline</td>
+      <td>Logged practices with overlaid climate data (e.g., rainfall, temp)</td>
+    </tr>
+    <tr>
+      <td>Harvest Records</td>
+      <td>Yield by season or by anomaly year (e.g., drought or heat years)</td>
+    </tr>
+    <tr>
+      <td>Resilience Scorecards</td>
+      <td>Impact summaries per contributor or community practice</td>
+    </tr>
+    <tr>
+      <td>Custom Queries</td>
+      <td>e.g., <code>no-till events during >2°C anomaly years</code></td>
+    </tr>
+  </tbody>
+</table>
 
 &nbsp;
 
-### __How visualization works under the hood__ ###
+### __ Visualization Logic - What The AI Gent Does__ ###
 When an enriched log is submitted, the ai agent can:
 
-1. Query APIs (e.g., ERA5, CHIRPS, Sentinel) to fetch climate signals
+<table>
+  <thead>
+    <tr>
+      <th>Agent Step</th>
+      <th>Example Tools / Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Query Climate APIs</td>
+      <td><code>ERA5</code>, <code>CHIRPS</code>, <code>Sentinel</code></td>
+    </tr>
+    <tr>
+      <td>Apply Logic</td>
+      <td>Detect thresholds, identify event timing or trends</td>
+    </tr>
+    <tr>
+      <td>Trigger Visualizations</td>
+      <td><code>Plotly</code>, <code>Vega-Lite</code>, <code>Matplotlib</code></td>
+    </tr>
+    <tr>
+      <td>Display to Users</td>
+      <td>Dashboards in co-ops or steward interfaces</td>
+    </tr>
+  </tbody>
+</table>
 
-2. Apply contextual logic to identify trends or thresholds
-
-3. Trigger simple data visualization scripts (e.g., Plotly, Vega-Lite, or Matplotlib) to render
-   - NDVI trends across time
-   - Compost events overlaid on temperature anomalies
-   - Peer comparisons or practice clusters by condition
 
 These visuals are then displayed in steward dashboards or co-op interfaces — closing the feedback loop and enabling contributors to understand the impact and timing of their actions in real-world climate context.
 
 &nbsp;
 
-Cooperatives and DAOs can also aggregate this enriched data to:
+__Collective Insights - What Co-ops or DAOs Can Generate__
+<table>
+  <thead>
+    <tr>
+      <th>Use Case</th>
+      <th>Example Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trend Analysis</td>
+      <td>Anonymized visualizations across a region</td>
+    </tr>
+    <tr>
+      <td>Reporting</td>
+      <td>Graphs or maps for ESG funders or buyers</td>
+    </tr>
+    <tr>
+      <td>Strategy Coordination</td>
+      <td>Heatmaps, summaries for seasonal planning</td>
+    </tr>
+  </tbody>
+</table>
 
-- Create anonymized trends or impact visualizations
-
-- Generate reports for ESG funders or supply chain buyers
-
-- Coordinate seasonal strategies using region-level summaries
 
 &nbsp;
 
