@@ -352,10 +352,10 @@ Each log is governed by embedded consent settings — specifying:
 
 Storage is flexible, and each region or node chooses its preferred method:
 
-- Holochain – peer-validated, local-first nodes
+- __Holochain__ – peer-validated, local-first nodes
 
-- IPFS Cluster – distributed storage for semi-public syncing
+- __IPFS Cluster__ – distributed storage for semi-public syncing
 
-- DAO-hosted servers – for dashboard use or temporary sharing
+- __DAO-hosted servers__ – for dashboard use or temporary sharing
 
 __Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned.__
