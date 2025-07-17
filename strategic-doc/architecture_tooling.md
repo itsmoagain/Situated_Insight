@@ -177,6 +177,8 @@ Verification in this system is flexible, consent-based, and multi-layered. It ca
 
 __This system moves beyond binary certification to recognize degrees of participation and impact, allowing broader access to incentives and recognition.__
 
+&nbsp;
+
 # Enrichment and Reciprocal Benefit
 From raw practice to climate-aware insight, funding, and visibility
 
@@ -357,6 +359,8 @@ Storage is flexible, and each region or node chooses its preferred method:
 
 __Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned.__
 
+&nbsp;
+
 # Interoperability Pipelines #
 What gets shared, when, and where — from steward dashboards to ESG pipelines
 
@@ -424,6 +428,113 @@ AI agents support this by:
 
 Only logs with full consent and enrichment visibility settings are surfaced at this level — ensuring that __external interoperability never compromises contributor autonomy__
 
+&nbsp;
+
 # AI Agents for Context and Collaboration
+Agentic AI can strengthen the connective tissue between data, communities, and decisions. It can help surface context, reduce burden, and make collective reasoning more visible and actionable.
+
+The role of agents in this system fall into three categories:
+
+## 1. Epistemic Tools
+Epistemic agents help contributors and coordinators interpret conditions, validate experience, and surface patterns that inform regenerative choices.
+
+__Examples in the DAO stack:__
+
+- Climate enrichment agents that auto-layer logs with climate context (e.g. rainfall anomaly, SPI)
+
+- Insight agents that summarize log trends or notify stewards when patterns emerge (e.g. multiple co-ops applying compost during heat stress)
+
+- Field-based agents that support stewards in describing conditions more clearly — even with low literacy or poor connectivity
+  
+## 2. Coordination-Enabling Tools: Acting Together
+Coordination-enabling agents help diverse actors work together — across language, geography, or role.
+
+__Examples in the DAO Stack:__
+
+- Governance summarizers that condense proposal flows and flag trade-offs or synergies
+
+- Translation agents that rephrase policy language into local vernaculars
+
+- Consent agents that assist with managing sharing settings across federated networks
+
+- Delegation agents that notify when steward input is needed — without demanding constant attention
+
+These agents reduce coordination fatigue while preserving local agency.
+
+## 3. Structural Tools: Shaping New Incentive Flows
+These agents help reconfigure the rules of visibility, reputation, and funding across the network.
+
+__Examples in the DAO stack:__
+- Reputation agents that synthesize logs into badgeable narratives
+
+- Agents that support the issuance of Hypercerts by structuring modular impact data
+
+- Smart incentives that adjust reward visibility during climate anomalies (e.g. giving bonus visibility to drought mitigation efforts)
+
+- Cross-DAO matchmakers that identify complementary needs or shared data requests
+
+In this context, agents are not just tools — they’re infrastructural actors that help shift whose contributions are seen, valued, and resourced.
+
+## Agent Role Examples
+<table>
+  <thead>
+    <tr>
+      <th>Agent Type</th>
+      <th>Key Functions</th>
+      <th>Design Goal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Practice Logging Agents</strong></td>
+      <td>
+        <ul>
+          <li>Voice-to-text for practice input</li>
+          <li>Auto-suggest categories from history</li>
+          <li>Prompt for climate overlays (e.g., drought)</li>
+          <li>Flag logs for enrichment or review</li>
+        </ul>
+      </td>
+      <td>Make logging feel like dialogue, not extraction</td>
+    </tr>
+    <tr>
+      <td><strong>Insight Visualization Agents</strong></td>
+      <td>
+        <ul>
+          <li>Create simple visuals (e.g., rainfall vs. soil)</li>
+          <li>Summarize trends for a parcel or group</li>
+          <li>Enable peer comparisons (“3 nearby farms did this too”)</li>
+          <li>Trigger reflective questions about results</li>
+        </ul>
+      </td>
+      <td>Reinforce learning, not just compliance</td>
+    </tr>
+    <tr>
+      <td><strong>Governance Facilitation Agents</strong></td>
+      <td>
+        <ul>
+          <li>Summarize DAO proposals</li>
+          <li>Translate content to voice/visual/local dialects</li>
+          <li>Suggest related DAO examples</li>
+          <li>Notify contributors about relevant votes</li>
+        </ul>
+      </td>
+      <td>Lower participation friction, increase inclusion</td>
+    </tr>
+    <tr>
+      <td><strong>Impact Credentialing Agents</strong></td>
+      <td>
+        <ul>
+          <li>Detect eligibility for Hypercerts/badges</li>
+          <li>Package logs into storylines (e.g., “Oaxaca heat season”)</li>
+          <li>Support consent and co-authorship of narratives</li>
+          <li>Publish to DAOs, ESG systems, or funding rounds</li>
+        </ul>
+      </td>
+      <td>Turn impact into portable, visible records</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
