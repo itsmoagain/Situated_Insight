@@ -1,4 +1,5 @@
 # The Idea & Design Foundations
+This project centers local knowledge and practice as foundational to climate insight and assumes that distributed, steward-owned data can inform more equitable climate policy.  
 The goal is to build on existing economic infrastructure with a decentralized, climate-contextualized system where land stewards, cooperatives, researchers, and funders co-create a shared record of regenerative practices. These records are enriched with environmental and ecological data, governed locally, and designed to return value to those doing the work. At its core, the system enables grounded, real-time verification pathways — generating insight where it matters, contributing to a bioregional data mosaic, and deepening the context through which regenerative action is understood, supported, and rewarded.
 
  > _Contributing data isn't just a reporting task — it’s an act of collective authorship. 
@@ -57,11 +58,7 @@ This is what the system makes possible:
 &nbsp; 
 
 ## Guiding Principles
-
-This project centers local knowledge and practice as foundational to climate insight.  
-It assumes that distributed, steward-owned data can inform more equitable climate policy.
-
-### Working principles for design decisions that shape how tools are built, how data flows, and how value is returned:
+Working principles for design decisions that shape how tools are built, how data flows, and how value is returned:
 
 #### __Feeding Land Stewards First__&nbsp;
 
