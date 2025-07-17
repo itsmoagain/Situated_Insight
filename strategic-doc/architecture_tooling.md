@@ -163,8 +163,6 @@ Verification in this system is flexible, consent-based, and multi-layered. It ca
 </p>
 </details>
 
-&nbsp;
-
 <details>
   <summary><strong>Credential Types: Examples </strong></summary>
   <p>
