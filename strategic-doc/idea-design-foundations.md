@@ -142,6 +142,7 @@ while still contributing to a shared mosaic.
 A federated ecosystem — a network of modular, regionally grounded DAOs that govern themselves, serve their communities, and choose when and how to connect. Each node operates independently, but shares core tooling, schemas, and principles that allow it to interact with others.
 
 Federation allows the system to scale in a way that reflects the diversity of the landscapes and people it serves — without imposing top-down control or flattening local knowledge.
+
 &nbsp;
 
 
@@ -156,7 +157,8 @@ __In this model, each DAO is:__
 
 - Opted-in at every layer — no DAO is required to participate in external data sharing, credentialing, or public goods rounds
 
-Instead of one master DAO, the system grows horizontally — through shared infrastructure, portable insights, and mutual alignment.
+Instead of one master DAO, the system grows horizontally — through shared infrastructure, portable insights, and mutual alignment.  
+
 &nbsp;
 
 
