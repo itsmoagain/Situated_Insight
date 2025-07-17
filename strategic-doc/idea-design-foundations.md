@@ -2,9 +2,9 @@
 The goal is to build on existing economic infrastructure with a decentralized, climate-contextualized system where land stewards, cooperatives, researchers, and funders co-create a shared record of regenerative practices. These records are enriched with environmental and ecological data, governed locally, and designed to return value to those doing the work. At its core, the system enables grounded, real-time verification pathways — generating insight where it matters, contributing to a bioregional data mosaic, and deepening the context through which regenerative action is understood, supported, and rewarded.
 
 * Contributing data isn't just a reporting task — it’s an act of collective authorship. 
-Each practice log from a land steward or the associated climate-tagged insight becomes a tile in a growing mosaic of land-based climate intelligence. 
+Each practice log from a land steward or the associated climate-tagged insight becomes a tile in a growing mosaic of land-based climate intelligence. *
 
-The data itself is the value asset: it links practice with science, funding, and governance in a way that centers the people on the ground — and operates on their terms. *
+* The data itself is the value asset: it links practice with science, funding, and governance in a way that centers the people on the ground — and operates on their terms. *
 
 Land stewards face growing pressure on all fronts. Weather patterns are shifting, ecosystems are under strain, and supply chains increasingly expect proof of climate impact. Communities are working to adapt in real time,  but the systems built to verify that value are often designed for institutions, not those on the ground. They are slow, extractive, and expensive — more focused on audits and compliance than on adaptation, feedback, or reciprocity.
 
