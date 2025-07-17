@@ -261,7 +261,7 @@ This is not a backend-only system. The DAO stack is designed to return enriched,
 &nbsp;
 
 ### __How visualization works under the hood__ ###
-When an enriched log is submitted, the agent can:
+When an enriched log is submitted, the ai agent can:
 
 1. Query APIs (e.g., ERA5, CHIRPS, Sentinel) to fetch climate signals
 
@@ -284,3 +284,23 @@ Cooperatives and DAOs can also aggregate this enriched data to:
 
 - Coordinate seasonal strategies using region-level summaries
 
+&nbsp;
+
+## Data Sovereignty & Consent## 
+Each log is governed by embedded consent settings — specifying:
+
+- Who can view it (private, DAO, or public)
+
+- Whether it may be enriched
+
+- Whether it can be used in reports, credentialing, or funding proposals
+
+Storage is flexible, and each region or node chooses its preferred method:
+
+- Holochain – peer-validated, local-first nodes
+
+- IPFS Cluster – distributed storage for semi-public syncing
+
+- DAO-hosted servers – for dashboard use or temporary sharing
+
+Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned.
