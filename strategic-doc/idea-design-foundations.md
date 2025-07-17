@@ -15,9 +15,10 @@ Each DAO is modular and self-governed, shaped by its bioregion and community, bu
 &nbsp; 
 
 
-<img src="../diagrams/image.avif" alt="Governance" width="400"/>
+<img src="../diagrams/image.avif" alt="Governance" width="600"/>
 
 &nbsp; 
+
 At its core, this system is guided by a simple principle: verification of climate beneficial practices should benefit the verified. If a steward applies compost during a drought, or restores vegetation ahead of flood season, that action should be recognized rather than not buried in paperwork.
 
 The goal is to build a network where climate action becomes visible, fundable, and trustworthy — and where the data serves the people who generate it.
