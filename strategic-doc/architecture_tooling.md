@@ -220,15 +220,11 @@ This includes:
   “This composting event occurred during moderate drought conditions. Increased microbial retention and soil buffering likely.”
 
 - __Enrichment Metadata__
-Structured fields are assigned for:
-
-Climate alignment (e.g., spi_bucket: "moderate_drought")
-
-Practice type and timing (e.g., practice_window: "pre-heatwave")
-
-Impact potential (e.g., resilience_index: 0.78, visibility_priority: high)
-
-DAO relevance (e.g., funding_flag: true, hypercert_ready: yes)
+  Structured fields are assigned for:
+  - Climate alignment (e.g., spi_bucket: "moderate_drought")
+  - Practice type and timing (e.g., practice_window: "pre-heatwave")
+  - Impact potential (e.g., resilience_index: 0.78, visibility_priority: high)
+  - DAO relevance (e.g., funding_flag: true, hypercert_ready: yes)
 
 These metadata fields feed into shared data models that help build a richer bioregional mosaic — where each node contributes structured, comparable insights that reflect local nuance while enabling larger-scale pattern recognition.
 
