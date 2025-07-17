@@ -84,7 +84,7 @@ When land stewards log their practices and receive real-time climate enrichment,
 they gain visibility into trends, support adaptive decisions, and become recognized participants
 in global climate data systems.
 
-<img src="../diagrams/vsflow2025-05-23-1047.png" alt="Governance" width="600"/>
+<img src="../diagrams/vsflow2025-05-23-1047.png" alt="Governance" width="1000"/>
 
 
 > Logging + enrichment → insight → action → recognition
