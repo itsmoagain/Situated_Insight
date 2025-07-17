@@ -286,7 +286,7 @@ Cooperatives and DAOs can also aggregate this enriched data to:
 
 &nbsp;
 
-## Data Sovereignty & Consent## 
+## Data Sovereignty & Consent ## 
 Each log is governed by embedded consent settings — specifying:
 
 - Who can view it (private, DAO, or public)
@@ -303,4 +303,4 @@ Storage is flexible, and each region or node chooses its preferred method:
 
 - DAO-hosted servers – for dashboard use or temporary sharing
 
-Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned.
+__ Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned. __
