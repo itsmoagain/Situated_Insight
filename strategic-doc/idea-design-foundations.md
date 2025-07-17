@@ -33,6 +33,12 @@ A small cooperative in a semi-arid region meets monthly to review practices and 
 
 In early spring, a composting event is logged on a maize field. The system overlays climate data for that location and time. A +2.4°C temperature anomaly is detected. An enrichment AI agent tags the entry as compost_during_heat, assigning relevant metadata and generating a dashboard insight in accessible easy to understand language:
 > _“This composting occurred during an early-season heatwave. Likely impact: improved soil moisture retention and microbial buffering.”_
+>
+> During the cooperative’s review, the entry is endorsed for a seasonal resilience badge. With contributor consent, it’s bundled into a regional Hypercert representing drought-adaptive practices.
+
+A regenerative buyer browsing DAO dashboards later identifies this enriched bundle and initiates a support agreement with the cooperative. The original practice log remains locally stored and steward-owned — but it now carries recognition, traceability, and the potential for direct funding.
+
+
 
 &nbsp; 
 
