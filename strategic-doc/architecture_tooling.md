@@ -246,6 +246,8 @@ The agent doesn’t just interpret a log — it situates it within an evolving, 
 
 This is not a backend-only system. The DAO stack is designed to return enriched, usable insights to contributors — turning data into real-time decision support and validation.
 
+&nbsp;
+
 ### __Contributor dashboards may include:__ ###
 
 - Practice timelines with climate overlays
@@ -255,6 +257,8 @@ This is not a backend-only system. The DAO stack is designed to return enriched,
 - “Resilience scorecards” for individual or community practices
 
 - Custom queries like: _“Show all no-till events during years with >2°C temperature anomaly”_
+
+&nbsp;
 
 ### __How visualization works under the hood__ ###
 When an enriched log is submitted, the agent can:
@@ -269,6 +273,8 @@ When an enriched log is submitted, the agent can:
    - Peer comparisons or practice clusters by condition
 
 These visuals are then displayed in steward dashboards or co-op interfaces — closing the feedback loop and enabling contributors to understand the impact and timing of their actions in real-world climate context.
+
+&nbsp;
 
 Cooperatives and DAOs can also aggregate this enriched data to:
 
