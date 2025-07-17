@@ -63,23 +63,23 @@ It assumes that distributed, steward-owned data can inform more equitable climat
 
 ### Working principles for design decisions that shape how tools are built, how data flows, and how value is returned:
 
-####__Feeding Land Stewards First__&nbsp;
+#### __Feeding Land Stewards First__&nbsp;
 
 Any system that depends on land stewards must return value — first and foremost — to them. Whether it’s funding, feedback, or visibility, contributors should benefit from the value stream they're creating. 
 
-####__Participation as The Value Asset__&nbsp;
+#### __Participation as The Value Asset__&nbsp;
 
 If someone logs practices consistently, engages in peer review, and enriches their data with local context, that is valuable contirbution that should be supported and incentivized. Trust is built through reciprocal contribution, not gatekeeping.
 
-####__Node Ownership__&nbsp; 
+#### __Node Ownership__&nbsp; 
 
 Each DAO — whether a cooperative, bioregional group, or producer alliance — governs its own data, validation process, and funding flows. Sharing is opt-in, transparent, and consent-based.
 
-####__Composability Through Cooperation__&nbsp;
+#### __Composability Through Cooperation__&nbsp;
 
 Tools are modular and adaptable. A co-op can use mobile apps or paper forms. A region can change how it validates or visualizes data. The system grows stronger through difference, not sameness.
 
-####__Enrich > Extract__&nbsp;
+#### __Enrich > Extract__&nbsp;
 
 Too often, producers are asked to give up data for someone else’s benefit. Here, that data is layered with insight, climate context, or access to funding — and always returned to the contributor in usable form.
 
