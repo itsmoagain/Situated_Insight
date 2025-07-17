@@ -12,6 +12,8 @@ This initiative proposes a fundamentally different approach: a decentralized, re
 
 Each DAO is modular and self-governed, shaped by its bioregion and community, but connected through shared infrastructure: climate enrichment tools, portable credentials, and composable governance logic. What unites them is not uniform technology, but a shared commitment to equity, autonomy, and real-world impact.
 
+![Governance](diagrams/image.avif)
+
 
 
 
