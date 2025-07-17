@@ -246,7 +246,7 @@ The agent doesn’t just interpret a log — it situates it within an evolving, 
 
 This is not a backend-only system. The DAO stack is designed to return enriched, usable insights to contributors — turning data into real-time decision support and validation.
 
-__Contributor dashboards may include:__
+### __Contributor dashboards may include:__ ###
 
 - Practice timelines with climate overlays
 
@@ -256,7 +256,7 @@ __Contributor dashboards may include:__
 
 - Custom queries like: _“Show all no-till events during years with >2°C temperature anomaly”_
 
-__How visualization works under the hood__
+### __How visualization works under the hood__ ###
 When an enriched log is submitted, the agent can:
 
 1. Query APIs (e.g., ERA5, CHIRPS, Sentinel) to fetch climate signals
