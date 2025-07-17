@@ -14,7 +14,10 @@ Each DAO is modular and self-governed, shaped by its bioregion and community, bu
 &nbsp; 
 
 
+<div align="center">
 <img src="../diagrams/image.avif" alt="Governance" width="600"/>
+ <em>Figure 1: Basic Framework </em>
+</div>
 
 &nbsp; 
 
@@ -24,7 +27,10 @@ The goal is to build a network where climate action becomes visible, fundable, a
 
 #### What This Looks Like in Practice 
 
-![Governance](../diagrams/3xflow.png)
+<div align="center">
+<img src="../diagrams/3xflow.png" alt="Governance" width="1000"/>
+ <em>Figure 2:  Governance Structure</em>
+</div>
 
 
 __An example case__ 
