@@ -86,13 +86,28 @@ in global climate data systems.
 
 > Logging + enrichment → insight → action → recognition
 &nbsp;
-
+&nbsp;
+> 
 <div align="center">
 <img src="../diagrams/vsflow2025-05-23-1047.png" alt="Governance" width="1000"/>
  <em>Figure 3:  Traditional MRV vs Regenerative MRV</em>
 </div>
 
+### The Problems
 
+Land stewards are already adapting in real time — adjusting planting cycles, rebuilding soil, rotating grazing — yet they’re asked to “prove impact” through costly, extractive processes that rarely return value.
+
+Current systems fall short because they’re built for compliance, not care:
+
+*__MRV (Measurement, Reporting, & Verification) is often extractive:__ Producers submit data up the supply chain or for certificatin but rarely receive insights, support, or funding.
+
+*__Certification is slow and expensive:__ Making it inaccessible for most smallholders or informal networks.
+
+*__Climate context is missing:__ Actions aren’t evaluated in relation to weather extremes or local resilience conditions.
+
+*__Metrics are disconnected:__ ESG (a corporation's Environmental Social Governance metric) frameworks strip away cultural, ecological, and adaptive nuance.
+
+What’s needed is a system that learns alongside producers — one that closes the feedback loop, recognizes climate-smart adaptation in real time, and redistributes resources accordingly.
 
 &nbsp;
 
