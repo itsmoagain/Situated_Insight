@@ -20,6 +20,7 @@ Each DAO is modular and self-governed, shaped by its bioregion and community, bu
 
 <div align="center">
 <img src="../diagrams/image.avif" alt="Governance" width="600"/>  
+  
 <em>Figure 1: Basic Framework</em>
 </div>
 
