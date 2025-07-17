@@ -241,12 +241,12 @@ This structured enrichment allows:
 
 The agent doesn’t just interpret a log — it situates it within an evolving, federated map of regenerative practice.
 
+&nbsp;
+
 
 ## Visualization & Feedback
 
 This is not a backend-only system. The DAO stack is designed to return enriched, usable insights to contributors — turning data into real-time decision support and validation.
-
-&nbsp;
 
 ### __Contributor dashboards may include:__ ###
 
