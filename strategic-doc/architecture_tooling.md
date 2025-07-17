@@ -221,10 +221,60 @@ This includes:
 
 - __Enrichment Metadata__
   Structured fields are assigned for:
-  - Climate alignment (e.g., 'spi_bucket: "moderate_drought"')
-  - Practice type and timing (e.g., practice_window: "pre-heatwave")
-  - Impact potential (e.g., resilience_index: 0.78, visibility_priority: high)
-  - DAO relevance (e.g., funding_flag: true, hypercert_ready: yes)
+  - Climate alignment (e.g., `spi_bucket: "moderate_drought"`)
+  - Practice type and timing (e.g., `practice_window: "pre-heatwave"`)
+  - Impact potential (e.g., `resilience_index: 0.78, visibility_priority: high`)
+  - DAO relevance (e.g., `funding_flag: true, hypercert_ready: yes`)
 
 These metadata fields feed into shared data models that help build a richer bioregional mosaic — where each node contributes structured, comparable insights that reflect local nuance while enabling larger-scale pattern recognition.
+
+__For example:__
+A DAO working in a semi-arid region might surface a cluster of `grazing_during_greenness_spike` logs across contributors — signaling a successful adaptation practice worth highlighting or scaling.
+
+This structured enrichment allows:
+
+- Researchers to analyze trends across regions
+
+- Funders to identify high-impact clusters or gaps
+
+- DAO alliances to coordinate seasonal responses or reward pools
+
+The agent doesn’t just interpret a log — it situates it within an evolving, federated map of regenerative practice.
+
+
+## Visualization & Feedback
+
+This is not a backend-only system. The DAO stack is designed to return enriched, usable insights to contributors — turning data into real-time decision support and validation.
+
+__Contributor dashboards may include:__
+
+- Practice timelines with climate overlays
+
+- Yield and harvest records by season or anomaly year
+
+- “Resilience scorecards” for individual or community practices
+
+- Custom queries like: _“Show all no-till events during years with >2°C temperature anomaly”_
+
+__How visualization works under the hood__
+When an enriched log is submitted, the agent can:
+
+1. Query APIs (e.g., ERA5, CHIRPS, Sentinel) to fetch climate signals
+
+2. Apply contextual logic to identify trends or thresholds
+
+3. Trigger simple data visualization scripts (e.g., Plotly, Vega-Lite, or Matplotlib) to render
+   - NDVI trends across time
+   - Compost events overlaid on temperature anomalies
+   - Peer comparisons or practice clusters by condition
+
+These visuals are then displayed in steward dashboards or co-op interfaces — closing the feedback loop and enabling contributors to understand the impact and timing of their actions in real-world climate context.
+
+Cooperatives and DAOs can also aggregate this enriched data to:
+
+- Create anonymized trends or impact visualizations
+
+- Generate reports for ESG funders or supply chain buyers
+
+- Coordinate seasonal strategies using region-level summaries
 
