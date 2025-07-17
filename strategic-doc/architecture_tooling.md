@@ -536,5 +536,7 @@ In this context, agents are not just tools — they’re infrastructural actors 
   </tbody>
 </table>
 
+Each of these agent roles is designed to support _feedback-first design_. Instead of AI deciding outcomes, agents support people in seeing more clearly, coordinating more effectively, and asserting ownership over their contributions and context.
+
 
 
