@@ -5,10 +5,10 @@ The Regenerative DAO system is built on a modular, composable stack that enables
 
 A core design pattern across the system is __two-layer enrichment:__
 
-1. __[Oracled](glossary.md) Climate Data Context__
+1.  __[Oracled](glossary.md) Climate Data Context__
 When a log is submitted, it is first enriched with raw climate data using trusted oracles (e.g., SPI, NDVI, temperature anomalies) based on GPS and timestamp. This overlays objective environmental conditions onto the log — without interpretation.
 
-2. __Agent-Driven Insight__
+2.  __Agent-Driven Insight__
 AI agents then interpret this climate context and generate tags, feedback, or downstream triggers. These may help prioritize logs for funding, highlight resilience actions, or surface patterns across peers.
 
 For example:
