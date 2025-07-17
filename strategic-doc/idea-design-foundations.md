@@ -2,7 +2,8 @@
 The goal is to build on existing economic infrastructure with a decentralized, climate-contextualized system where land stewards, cooperatives, researchers, and funders co-create a shared record of regenerative practices. These records are enriched with environmental and ecological data, governed locally, and designed to return value to those doing the work. At its core, the system enables grounded, real-time verification pathways — generating insight where it matters, contributing to a bioregional data mosaic, and deepening the context through which regenerative action is understood, supported, and rewarded.
 
  > _Contributing data isn't just a reporting task — it’s an act of collective authorship. 
-> Each practice log from a land steward or the associated climate-tagged insight becomes a tile in a growing mosaic of land-based climate intelligence._ _The data itself is the value asset: it links practice with science, funding, and governance in a way that centers the people on the ground — and operates on their terms._
+> Each practice log from a land steward or the associated climate-tagged insight becomes a tile in a growing mosaic of land-based climate intelligence._
+> _The data itself is the value asset: it links practice with science, funding, and governance in a way that centers the people on the ground — and operates on their terms._
 
 Land stewards face growing pressure on all fronts. Weather patterns are shifting, ecosystems are under strain, and supply chains increasingly expect proof of climate impact. Communities are working to adapt in real time,  but the systems built to verify that value are often designed for institutions, not those on the ground. They are slow, extractive, and expensive — more focused on audits and compliance than on adaptation, feedback, or reciprocity.
 
@@ -33,8 +34,7 @@ A small cooperative in a semi-arid region meets monthly to review practices and 
 
 In early spring, a composting event is logged on a maize field. The system overlays climate data for that location and time. A +2.4°C temperature anomaly is detected. An enrichment AI agent tags the entry as compost_during_heat, assigning relevant metadata and generating a dashboard insight in accessible easy to understand language:
 > _“This composting occurred during an early-season heatwave. Likely impact: improved soil moisture retention and microbial buffering.”_
->
-> During the cooperative’s review, the entry is endorsed for a seasonal resilience badge. With contributor consent, it’s bundled into a regional Hypercert representing drought-adaptive practices.
+During the cooperative’s review, the entry is endorsed for a seasonal resilience badge. With contributor consent, it’s bundled into a regional Hypercert representing drought-adaptive practices.
 
 A regenerative buyer browsing DAO dashboards later identifies this enriched bundle and initiates a support agreement with the cooperative. The original practice log remains locally stored and steward-owned — but it now carries recognition, traceability, and the potential for direct funding.
 
