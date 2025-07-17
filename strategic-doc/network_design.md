@@ -87,7 +87,8 @@ Contribution isn’t one-size-fits-all. The system supports multiple participati
           <li>Peer recognition: seasonal badges, voting tools</li>
           <li>Agent prompts for reflection, planning, or storytelling</li>
         </ul>
-        Contributors are **reflected back insight**, not just extractively mined.
+            </ul>
+        Contributors are ** reflected back insight **, not just extractively mined.
       </td>
     </tr>
   </tbody>
