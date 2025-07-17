@@ -196,28 +196,25 @@ Federation allows:
 
 It’s not a marketplace. It’s a mosaic — made legible through mutual infrastructure, not centralized oversight.
 
-> ### Example: Shared Enrichment Across Climatic Peers
+&nbsp;
+
+### Example: Shared Enrichment Across Climatic Peers
 >
-> Imagine a __Senegal Dryland Farming DAO__, a __Northeast Brazil Forage DAO__, and a __Southern India Rainfed Cotton DAO__. These groups operate in different countries, cultures, and agricultural systems — but all are navigating irregular monsoons, heat spikes, and persistent drought risk.
+>Imagine a __Senegal Dryland Farming DAO__, a __Northeast Brazil Forage DAO__, and a __Southern India Rainfed Cotton DAO__. These groups operate in different countries, cultures, and agricultural systems — but all are navigating irregular monsoons, heat spikes, and persistent drought risk.
 >
-> Each DAO logs local practices:
+>Each DAO logs local practices:
+>
+> - In Senegal: staggered composting and millet cover cropping
+>
+> - In Brazil: multi-species forage mixes for soil moisture retention
+>
+> - In India: low-input rainfed cotton rotations with neem-based treatments
+>
+>Because they share a __common enrichment layer__ — one that recognizes climate anomalies, tags resilience-oriented practices, and returns insights based on regional peer data — they begin to co-shape the enrichment engine itself. The Senegal DAO notices improved NDVI following millet cover; this pattern gets surfaced by the agent module and shared as an “adaptive practice signal” across DAOs facing SPI below -1.5.  
+>
+>Later, the Brazil DAO refines its insight model using this pattern — not by importing Senegal’s governance, but by __adapting its enrichment logic__ based on contextually relevant peer data. This is how federated systems learn — not through hierarchy, but through climatic kinship and contributor-shaped intelligence.
 
-- In Senegal: staggered composting and millet cover cropping
-
-- In Brazil: multi-species forage mixes for soil moisture retention
-
-- In India: low-input rainfed cotton rotations with neem-based treatments
-
-Because they share a __common enrichment layer__ — one that recognizes climate anomalies, tags resilience-oriented practices, and returns insights based on regional peer data — they begin to co-shape the enrichment engine itself. The Senegal DAO notices improved NDVI following millet cover; this pattern gets surfaced by the agent module and shared as an “adaptive practice signal” across DAOs facing SPI below -1.5.  
-
-Later, the Brazil DAO refines its insight model using this pattern — not by importing Senegal’s governance, but by __adapting its enrichment logic__ based on contextually relevant peer data. This is how federated systems learn — not through hierarchy, but through climatic kinship and contributor-shaped intelligence.
-
-
-
-
-
-
-
+The structure
 - Enables bioregional autonomy
 - Respects differing climates, crops, and political conditions
 - Supports collaborative learning without extractive data flows
