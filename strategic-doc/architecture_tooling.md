@@ -69,3 +69,31 @@ _A deeper breakdown of this layer is available in the "Enrichment" section below
   <p>Dashboards return enriched insights to contributors — for example, “Your composting during a heatwave likely improved microbial retention” — helping make climate action legible in real time.</p>
 </details>
 
+## Practice Logging and Verification
+Logging forms the foundation of participation. It includes the act of documenting a regenerative action — applying compost, rotating pastures, planting cover crops — in a verifiable, climate-contextualized way. However, who logs, how logging happens, and where the data flows is designed flexibly, enabling both individual and cooperative-level participation.
+
+<details>
+  <summary><strong>Modes of Practice Logging </strong></summary>
+  <p>
+- Individual Stewards using mobile tools like KoboToolbox, Tella, or SMS-based interfaces
+
+- Human Field Agents from cooperatives or extension groups capturing data on behalf of farmers
+
+- Bulk Uploads from producer groups that already collect harvest or practice data
+
+- Imagery-Based Logging using drones, satellites, or mapped photo records
+
+- Voice-based Logging for accessibility in low-literacy or high-oral-tradition regions</p>
+</details>
+
+&nbsp;
+
+Logging templates are co-designed with communities and may include:
+
+- Visual options (images, drawings, icons)
+
+- Local crop and seasonality presets
+
+- Built-in climate triggers and enrichment consent toggles
+
+
