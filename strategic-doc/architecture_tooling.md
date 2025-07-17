@@ -186,7 +186,7 @@ From raw practice to climate-aware insight, funding, and visibility
 ##Climate Data Enrichment Engine 
 The enrichment layer transforms raw practice data into contextualized, high-value insights by adding climate data overlays that show the adaptive or ecological relevance of each action.
 
-This happens through a two-layer process:
+__This happens through a two-layer process:__
 
 &nbsp;
 
@@ -221,7 +221,7 @@ This includes:
 
 - __Enrichment Metadata__
   Structured fields are assigned for:
-  - Climate alignment (e.g., spi_bucket: "moderate_drought")
+  - Climate alignment (e.g., 'spi_bucket: "moderate_drought"')
   - Practice type and timing (e.g., practice_window: "pre-heatwave")
   - Impact potential (e.g., resilience_index: 0.78, visibility_priority: high)
   - DAO relevance (e.g., funding_flag: true, hypercert_ready: yes)
