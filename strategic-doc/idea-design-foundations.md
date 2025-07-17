@@ -27,7 +27,7 @@ At its core, this system is guided by a simple principle: verification of climat
 
 The goal is to build a network where climate action becomes visible, fundable, and trustworthy — and where the data serves the people who generate it.
 
-#### What This Looks Like in Practice 
+### What This Looks Like in Practice 
 
 <div align="center">
 <img src="../diagrams/3xflow.png" alt="Governance" width="1500"/>
@@ -35,7 +35,7 @@ The goal is to build a network where climate action becomes visible, fundable, a
 </div>
 
 
-__An example case__ 
+## __An example case__ 
 
 
 A small cooperative in a semi-arid region meets monthly to review practices and coordinate seasonal planning. Members log actions using a simple mobile tool tied to their shared DAO.
