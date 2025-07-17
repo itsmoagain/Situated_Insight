@@ -356,3 +356,74 @@ Storage is flexible, and each region or node chooses its preferred method:
 - __DAO-hosted servers__ – for dashboard use or temporary sharing
 
 __Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned.__
+
+# Interoperability Pipelines #
+What gets shared, when, and where — from steward dashboards to ESG pipelines
+
+Not all data needs to move. The Regenerative DAO stack is designed to prioritize local use first — and only share outward based on contributor intent, governance settings, or funding needs. Interoperability is tiered, consent-driven, and metadata-aware.
+
+
+## Tier 0: Local Only
+Logs remain entirely within the contributor’s device, co-op, or bioregional node.
+
+- Oracles and agents enrich data locally
+
+- Feedback and insights are visible in steward dashboards
+
+- No external syncing or exposure unless explicitly enabled
+
+This tier ensures data sovereignty and feedback-first value — where stewards benefit from climate enrichment even if they opt out of broader systems.
+
+## Tier 1: DAO-Level Sharing ##
+Data is shared within a regional or thematic DAO for:
+
+- Peer benchmarking and dashboard aggregation
+
+- Coordinated seasonal planning (e.g., timing for planting, grazing)
+
+- Internal validation and funding distribution (e.g., Coordinape, proposal reviews)
+
+__Agents and metadata schemas ensure consistency__ across logs — enabling anonymized trends without revealing individual data unless opted in.
+
+## Tier 2:Network or Ecosystem Sharing ##
+
+Logs, summaries, or credentials are shared across DAO alliances, cooperative clusters, or public goods funding ecosystems. This may include:
+
+- Hypercert registries
+
+- Gitcoin or ClimateDAO grant rounds
+
+- Federated reputation systems (e.g., badge portability, DAO-wide profiles)
+
+__Enrichment metadata__ allows contributors to opt in to specific pipelines:
+
+- “Make this log visible to regenerative fiber buyers”
+
+- “Include this bundle in public climate mosaic”
+
+- “Submit for pooled drought resilience funding”
+
+Shared formats and enrichment tags enable cross-DAO visibility __without flattening local context.__
+
+## Tier 3: External Integration (ESG, Scope 3, SDG Reporting) ##
+For contributors or DAOs who choose to integrate with external platforms, structured metadata enables:
+
+- Translation into ESG frameworks (e.g., GHG Protocol, SDG indicators)
+
+- Supply chain reporting (e.g., regenerative practice traces for brands)
+
+- Government alignment (e.g., subsidy claims, verification-ready submissions)
+
+AI agents support this by:
+
+- Translating enriched logs into required formats
+
+- Managing credential issuance or verification hooks
+
+- Tracking visibility settings and syncing thresholds
+
+Only logs with full consent and enrichment visibility settings are surfaced at this level — ensuring that __external interoperability never compromises contributor autonomy__
+
+# AI Agents for Context and Collaboration
+
+
