@@ -22,7 +22,7 @@ At its core, this system is guided by a simple principle: verification of climat
 
 The goal is to build a network where climate action becomes visible, fundable, and trustworthy — and where the data serves the people who generate it.
 
-### What This Looks Like in Practice 
+#### What This Looks Like in Practice 
 
 ![Governance](../diagrams/3xflow.png)
 
