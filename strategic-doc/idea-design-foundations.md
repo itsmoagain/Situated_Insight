@@ -67,19 +67,19 @@ __Feeding Land Stewards First__&nbsp;
 
 Any system that depends on land stewards must return value — first and foremost — to them. Whether it’s funding, feedback, or visibility, contributors should benefit from the value stream they're creating. 
 &nbsp;
-&nbsp; 
+&nbsp;
 
 __Participation as The Value Asset__&nbsp; 
 
 If someone logs practices consistently, engages in peer review, and enriches their data with local context, that is valuable contirbution that should be supported and incentivized. Trust is built through reciprocal contribution, not gatekeeping.
 &nbsp;  
-&nbsp; 
+&nbsp;
 
 __Node Ownership__&nbsp; 
 
 Each DAO — whether a cooperative, bioregional group, or producer alliance — governs its own data, validation process, and funding flows. Sharing is opt-in, transparent, and consent-based.
 &nbsp;  
-&nbsp; 
+&nbsp;
 
 __Composability Through Cooperation__&nbsp; 
 
