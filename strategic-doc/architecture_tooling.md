@@ -211,9 +211,11 @@ Once climate data is attached, AI agents serve as epistemic infrastructure, help
 This includes:
 
 - __Resilience Tags__
+  
   Automatically applied labels that highlight adaptive or ecologically significant actions (e.g., compost_during_drought, cover_crop_ahead_of_heat)
 
 - __Narrative Insights__
+  
   Plain-language reflections visible in dashboards, such as:
   “This composting event occurred during moderate drought conditions. Increased microbial retention and soil buffering likely.”
 
