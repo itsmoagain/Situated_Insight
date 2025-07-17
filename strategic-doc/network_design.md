@@ -44,7 +44,7 @@ Contribution isn’t one-size-fits-all. The system supports multiple participati
   <thead>
     <tr>
       <th>Mode of Contribution</th>
-      <th>From Practice to Enrichment</th>
+      <th>Practice -> Enrichment</th>
       <th>Consent and Control</th>
       <th>Contributor Support</th>
     </tr>
