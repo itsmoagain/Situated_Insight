@@ -78,10 +78,14 @@ Too often, producers are asked to give up data for someone else’s benefit. Her
 &nbsp;
 
 ## Theory of Change
+for Measurement, Reporing & Verification models
 
-We believe that when land stewards log their practices and receive real-time climate enrichment,
+When land stewards log their practices and receive real-time climate enrichment,
 they gain visibility into trends, support adaptive decisions, and become recognized participants
 in global climate data systems.
+
+<img src="../diagrams/image.avif" alt="Governance" width="600"/>
+
 
 > Logging + enrichment → insight → action → recognition
 
