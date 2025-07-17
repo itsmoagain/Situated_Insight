@@ -20,7 +20,7 @@ For example:
 _A deeper breakdown of this layer is available in the "Enrichment" section below_
 
 <div align="center">
-<img src="../diagrams/Data Stack 2025-05-23-1047.png" alt="Data Stack" width="600"/>  
+<img src="../diagrams/Data Stack 2025-05-23-1047.png" alt="Data Stack" width="450"/>  
 
   <em>Figure 4: Datastack </em>
 
