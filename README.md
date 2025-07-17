@@ -9,7 +9,7 @@ This is a conceptual framework in development. Feedback and collaboration are we
 If you're working on related systems — like climate MRV, regenerative finance, co-op coordination, or steward-first data tools — I’d love your thoughts.  
 Are the design choices here legible? What feels promising, missing, or worth pushing further?
 
-Feel free to [contribute to the dicussion](https://github.com/YOUR_REPO/issues) or reach out directly.
+Feel free to [contribute to the dicussion](https://github.com/Situated_Insight.discussions/2) or reach out directly.
 
 ---
 
