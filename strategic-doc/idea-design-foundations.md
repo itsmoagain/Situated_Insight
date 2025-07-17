@@ -38,7 +38,12 @@ During the cooperative’s review, the entry is endorsed for a seasonal resilien
 
 A regenerative buyer browsing DAO dashboards later identifies this enriched bundle and initiates a support agreement with the cooperative. The original practice log remains locally stored and steward-owned — but it now carries recognition, traceability, and the potential for direct funding.
 
-
+### Why it Matters ###
+This is what the system makes possible:
+* Practice that’s enriched and contextualized with real climate data
+* Data that generates value without requiring extraction
+* Contributors who remain in control of how their work is used and rewarded
+* This isn’t just decentralized infrastructure — it’s a framework for climate action that respects autonomy, supports coordination, and returns value to the ground.
 
 &nbsp; 
 
