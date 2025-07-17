@@ -28,11 +28,11 @@ The goal is to build a network where climate action becomes visible, fundable, a
 
 __An example case__ 
 
-A small cooperative in a semi-arid region meets monthly to review practices and coordinate seasonal planning. Members log actions using a simple mobile tool tied to their shared DAO.
 
-In early spring, a composting event is logged on a maize field. The system overlays climate data for that location and time. A +2.4°C temperature anomaly is detected. An enrichment AI agent tags the entry as compost_during_heat, assigning relevant metadata and generating a dashboard insight in accessible easy to understand language:
+< A small cooperative in a semi-arid region meets monthly to review practices and coordinate seasonal planning. Members log actions using a simple mobile tool tied to their shared DAO.
+< In early spring, a composting event is logged on a maize field. The system overlays climate data for that location and time. A +2.4°C temperature anomaly is detected. An enrichment AI agent tags the entry as compost_during_heat, assigning relevant metadata and generating a dashboard insight in accessible easy to understand language:
 
-
+---
 
 ## Guiding Principles
 
