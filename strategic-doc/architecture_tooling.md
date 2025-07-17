@@ -446,7 +446,7 @@ __Examples in the DAO stack:__
 
 - Field-based agents that support stewards in describing conditions more clearly — even with low literacy or poor connectivity
   
-## 2. Coordination-Enabling Tools: Acting Together
+## 2. Coordination-Enabling Tools
 Coordination-enabling agents help diverse actors work together — across language, geography, or role.
 
 __Examples in the DAO Stack:__
