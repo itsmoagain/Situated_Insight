@@ -248,7 +248,7 @@ The agent doesn’t just interpret a log — it situates it within an evolving, 
 
 This is not a backend-only system. The DAO stack is designed to return enriched, usable insights to contributors — turning data into real-time decision support and validation.
 
-### __Contributor dashboards - What They See__ ###
+###__Contributor dashboards - What They See__###
 
 <table>
   <thead>
@@ -279,7 +279,7 @@ This is not a backend-only system. The DAO stack is designed to return enriched,
 
 &nbsp;
 
-### __ Visualization Logic - What The AI Gent Does__ ###
+### __Visualization Logic - What The AI Agent Does__###
 When an enriched log is submitted, the ai agent can:
 
 <table>
@@ -314,7 +314,7 @@ These visuals are then displayed in steward dashboards or co-op interfaces — c
 
 &nbsp;
 
-__Collective Insights - What Co-ops or DAOs Can Generate__
+###__Collective Insights - What Co-ops or DAOs Can Generate__###
 <table>
   <thead>
     <tr>
