@@ -62,7 +62,6 @@ This project centers local knowledge and practice as foundational to climate ins
 It assumes that distributed, steward-owned data can inform more equitable climate policy.
 
 ### Working principles for design decisions that shape how tools are built, how data flows, and how value is returned:
-&nbsp; 
 
 __Feeding Land Stewards First__&nbsp; 
 
@@ -76,7 +75,6 @@ If someone logs practices consistently, engages in peer review, and enriches the
 &nbsp;  
 &nbsp; 
 
-
 __Node Ownership__&nbsp; 
 
 Each DAO — whether a cooperative, bioregional group, or producer alliance — governs its own data, validation process, and funding flows. Sharing is opt-in, transparent, and consent-based.
@@ -88,7 +86,6 @@ __Composability Through Cooperation__&nbsp;
 Tools are modular and adaptable. A co-op can use mobile apps or paper forms. A region can change how it validates or visualizes data. The system grows stronger through difference, not sameness.
 &nbsp;  
 &nbsp; 
-
 
 __Enrich > Extract__&nbsp; 
 
