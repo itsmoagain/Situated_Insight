@@ -303,4 +303,4 @@ Storage is flexible, and each region or node chooses its preferred method:
 
 - DAO-hosted servers – for dashboard use or temporary sharing
 
-__ Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned. __
+__Even when data is interoperable, it remains steward-owned — and all enrichment, tagging, and sharing pathways are permissioned.__
