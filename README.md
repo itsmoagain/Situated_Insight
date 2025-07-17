@@ -11,36 +11,32 @@ Are the design choices here legible? What feels promising, missing, or worth pus
 Feel free to [open an issue](https://github.com/YOUR_REPO/issues) or reach out directly.
 
 ---
+
 ## Contents
 
-### The Idea & Design Foundations
+### [The Idea & Design Foundations](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/idea-design-foundations.md)
 
-- [Guiding Principles](strategic-doc/idea-design-foundations.md#guiding-principles)  
-- [Theory of Change](strategic-doc/idea-design-foundations.md#theory-of-change)  
-- [Federation](strategic-doc/idea-design-foundations.md#federation)
+- [Guiding Principles](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/idea-design-foundations.md#guiding-principles)  
+- [Theory of Change](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/idea-design-foundations.md#theory-of-change)  
+- [Federation](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/idea-design-foundations.md#federation)
 
-### Architecture and Tooling
+### [Architecture and Tooling](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/architecture_tooling.md)
 
-- [Practice Logging & Verification](strategic-doc/architecture_tooling.md#practice-logging--verification)  
-- [Enrichment & Reciprocal Benefit](strategic-doc/architecture_tooling.md#enrichment--reciprocal-benefit)  
-- [Interoperability Pipelines](strategic-doc/architecture_tooling.md#interoperability-pipelines)  
-- [AI Agents for Context and Collaboration](strategic-doc/architecture_tooling.md#ai-agents-for-context-and-collaboration)
+- [Practice Logging & Verification](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/architecture_tooling.md#practice-logging--verification)  
+- [Enrichment & Reciprocal Benefit](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/architecture_tooling.md#enrichment--reciprocal-benefit)  
+- [Interoperability Pipelines](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/architecture_tooling.md#interoperability-pipelines)  
+- [AI Agents for Context and Collaboration](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/architecture_tooling.md#ai-agents-for-context-and-collaboration)
 
-### Network Design
+### [Network Design](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/network_design.md)
 
-- [Roles & Contributors](strategic-doc/network_design.md#roles--contributors)  
-- [Decision Making & Consent](strategic-doc/network_design.md#decision-making--consent)  
-- [Incentives & Mutual Value](strategic-doc/network_design.md#incentives--mutual-value)  
-- [Launching a Local DAO](strategic-doc/network_design.md#launching-a-local-dao)  
-- [Interoperability & Collaboration](strategic-doc/network_design.md#interoperability--collaboration)  
-- [Resilience & Risk Management](strategic-doc/network_design.md#resilience--risk-management)
-
-### Other Sections
-
-- [Real-World Examples](strategic-doc/real_world_examples.md#real-world-examples)  
-- [Glossary](strategic-doc/glossary.md#glossary)
+- [Roles & Contributors](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/network_design.md#roles--contributors)  
+- [Decision Making & Consent](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/network_design.md#decision-making--consent)  
+- [Incentives & Mutual Value](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/network_design.md#incentives--mutual-value)  
+- [Launching a Local DAO](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/network_design.md#launching-a-local-dao)  
+- [Interoperability & Collaboration](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/network_design.md#interoperability--collaboration)  
+- [Resilience & Risk Management](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/network_design.md#resilience--risk-management)
 
 ### Other Sections
 
-- [Real-World Examples](situated-insight/real_world_examples.md#real-world-examples)  
-- [Glossary](situated-insight/glossary.md#glossary)
+- [Real-World Examples](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/real_world_examples.md#real-world-examples)  
+- [Glossary](https://github.com/itsmoagain/Situated-Insight/blob/main/strategic-doc/glossary.md#glossary)
