@@ -40,3 +40,5 @@ Feel free to [open an issue](https://github.com/YOUR_REPO/issues) or reach out d
 
 - [Real-World Examples](strategic-doc/real_world_examples.md#real-world-examples)  
 - [Glossary](strategic-doc/glossary.md#glossary)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16054509.svg)](https://doi.org/10.5281/zenodo.16054509)
