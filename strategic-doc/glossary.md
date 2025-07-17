@@ -8,26 +8,26 @@ The principle that meaningful engagement by land stewards—such as logging prac
 ## Feed Farmers First
 A design ethic that puts land stewards and primary contributors at the center of value flows. Before data is extracted for institutional or market use, the system should provide insights, recognition, or material benefit to those doing the work.
 
-Bioregional
+## Bioregional
 Describes systems and governance structures based on ecological boundaries (e.g., watersheds, ecoregions) rather than political borders. Bioregional approaches honor place-based knowledge, decentralized authority, and stewardship that reflects local realities.
 
-Ecological Value
+## Ecological Value
 The measurable or observable benefit that a practice brings to an ecosystem—such as improved soil health, water retention, biodiversity, or climate resilience. This value may not always be monetized but is critical to long-term sustainability.
 
-Climate Context
+## Climate Context
 The environmental conditions surrounding a given action. For example, applying mulch during a heatwave or planting cover crops in anticipation of heavy rainfall. Context helps assess the relevance and impact of a practice more accurately.
 
-Verification Should Benefit the Verified
+## Verification Should Benefit the Verified
 A design principle that insists verification systems return value to contributors, rather than extract data solely for institutional or commercial gain. It emphasizes feedback, support, and dignity in data collection.
 
-Data Structures & Governance Layers
-Practice Log
+#Data Structures & Governance Layers
+##Practice Log
 A structured entry created by a contributor documenting a regenerative practice. It typically includes a timestamp, geolocation, description, optional media, and can be layered with climate or satellite data for verification and analysis.
 
-Consent Layer
+## Consent Layer
 The rules or settings that control how data is shared and with whom. This includes whether logs are public, private, shared selectively with funders or researchers, or retained locally. Consent flows are essential for data sovereignty and trust.
 
-Federated Network
+## Federated Network
 A system of autonomous but interoperable entities (like DAOs, cooperatives, or regional hubs) that share core infrastructure, data protocols, or standards. Each node governs itself while contributing to a larger shared mosaic.
 
 DAO (Decentralized Autonomous Organization)
