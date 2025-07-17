@@ -117,14 +117,13 @@ We believe decentralized, climate-contextualized systems can build real trust �
 &nbsp;
 
 
-| **Stage of the Journey** | **Description** |
+| **Stage of Journey** | **Activity** |
 |--------------------------|-----------------|
 | **Input** | Logs of regenerative practices (e.g. composting, cover cropping), steward knowledge, GPS/timestamps, peer review, climate datasets (SPI, NDVI, anomalies) |
 | **Activities** | Practice logging → enriched by agents with climate context → optionally validated by cooperatives or peers → credentials issued via DAO governance |
 | **Output** | Enriched, traceable records of land-based action; contributor-facing insights; public-facing credentials; reusable data packages |
 | **Outcomes** | Contributors gain visibility, funding access, and dashboard insights; cooperatives govern their own data; DAOs can share impact without central gatekeepers |
 | **Impact** | A regenerative data economy — composable, equitable, and rooted in place — where land stewards are treated as agents of intelligence and climate care |
-
 
 
 
