@@ -40,6 +40,137 @@ These rights are embedded in both technical design (e.g., consent metadata, loca
 ## Modes of Contribution
 Contribution isn’t one-size-fits-all. The system supports multiple participation pathways:
 
+<div style="overflow-x:auto">
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Dimension</th>
+      <th>Description</th>
+      <th>Key Examples</th>
+      <th>Contributor Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Modes of Contribution</strong></td>
+      <td>Multiple logging and knowledge-sharing pathways support participation based on access, literacy, and role.</td>
+      <td>
+        <ul>
+          <li>Direct or proxy logging</li>
+          <li>Sensor-enhanced entries</li>
+          <li>Voice/SMS input</li>
+          <li>Knowledge layering and peer validation</li>
+        </ul>
+      </td>
+      <td>Steward, Validator, Proxy Logger</td>
+    </tr>
+    <tr>
+      <td><strong>Enrichment Flow</strong></td>
+      <td>Logged practices move through layered context-building and insight generation.</td>
+      <td>
+        <ol>
+          <li>Climate oracle overlays (e.g., SPI, NDVI)</li>
+          <li>AI agent enrichment and tagging</li>
+          <li>Visualization generation</li>
+          <li>Credentialing via DAO/hypercerts</li>
+        </ol>
+      </td>
+      <td>Contributor, Enrichment Agent, DAO Credentialer</td>
+    </tr>
+    <tr>
+      <td><strong>Consent & Control</strong></td>
+      <td>Logs carry permission metadata that determine visibility, usage, and revocability across layers.</td>
+      <td>
+        <ul>
+          <li>DAO visibility</li>
+          <li>Public access toggles</li>
+          <li>Revocable temporal settings</li>
+        </ul>
+      </td>
+      <td>Every contributor defines access per log</td>
+    </tr>
+    <tr>
+      <td><strong>Contributor Support</strong></td>
+      <td>Dashboards and feedback loops reinforce insight and value-return for contributors.</td>
+      <td>
+        <ul>
+          <li>Dashboards & scorecards</li>
+          <li>Real-time insights</li>
+          <li>Funding eligibility signals</li>
+          <li>Badges, peer recognition</li>
+        </ul>
+      </td>
+      <td>Contributor, Visualization Agent, DAO Validator</td>
+    </tr>
+    <tr>
+      <td><strong>Governance Structures</strong></td>
+      <td>Bioregional DAOs govern themselves with local-first logic and interoperable tooling.</td>
+      <td>
+        <ul>
+          <li>Co-ops, Indigenous groups, research alliances</li>
+          <li>DAOhaus, DisCO, Coordinape frameworks</li>
+          <li>Templates + layered participation</li>
+        </ul>
+      </td>
+      <td>Validator, Delegate, Proposal Maker, Node Admin</td>
+    </tr>
+    <tr>
+      <td><strong>Governance Participation</strong></td>
+      <td>Not all must participate equally; consent-based governance allows different levels of engagement.</td>
+      <td>
+        <ul>
+          <li>Proposal opt-ins</li>
+          <li>Validator flags per log</li>
+          <li>Tiered governance layers</li>
+        </ul>
+      </td>
+      <td>Casual Contributor, Voter, Meta-Governor</td>
+    </tr>
+    <tr>
+      <td><strong>Agent Roles in Governance</strong></td>
+      <td>Agents surface decisions, trends, and summaries — never replacing human input but enabling action.</td>
+      <td>
+        <ul>
+          <li>Proposal summarization</li>
+          <li>Validation alerts</li>
+          <li>Funding eligibility signals</li>
+        </ul>
+      </td>
+      <td>Insight Agent, Governance Assistant</td>
+    </tr>
+    <tr>
+      <td><strong>Meta-Governance</strong></td>
+      <td>Federated alliances may emerge to guide shared standards and DAO onboarding logic.</td>
+      <td>
+        <ul>
+          <li>Cross-DAO coordination</li>
+          <li>Agent training frameworks</li>
+          <li>Shared metric libraries</li>
+        </ul>
+      </td>
+      <td>Meta-DAO Member, InterDAO Delegate</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table>
   <thead>
     <tr>
