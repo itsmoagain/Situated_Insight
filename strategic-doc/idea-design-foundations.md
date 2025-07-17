@@ -119,7 +119,7 @@ We believe decentralized, climate-contextualized systems can build real trust �
 
 | **Stage of Journey** | **Activity** |
 |--------------------------|-----------------|
-| **Input** | Logs of regenerative practices (e.g. composting, cover cropping), steward knowledge, GPS/timestamps, peer review, climate datasets (SPI, NDVI, anomalies) |
+| **Input** | Logs of regenerative practices (e.g. composting, cover cropping), steward knowledge, GPS/timestamps, peer review, [climate datasets (SPI, NDVI, anomalies)](.../glossary.md |
 | **Activities** | Practice logging → enriched by agents with climate context → optionally validated by cooperatives or peers → credentials issued via DAO governance |
 | **Output** | Enriched, traceable records of land-based action; contributor-facing insights; public-facing credentials; reusable data packages |
 | **Outcomes** | Contributors gain visibility, funding access, and dashboard insights; cooperatives govern their own data; DAOs can share impact without central gatekeepers |
@@ -128,10 +128,18 @@ We believe decentralized, climate-contextualized systems can build real trust �
 
 
 ## Federation
+A decentralized system held together by shared logic
 
 Rather than a single global standard, this model supports federated participation.  
 Each bioregional node can define its own governance, enrichment preferences, and insight tools, 
 while still contributing to a shared mosaic.
+
+A federated ecosystem — a network of modular, regionally grounded DAOs that govern themselves, serve their communities, and choose when and how to connect. Each node operates independently, but shares core tooling, schemas, and principles that allow it to interact with others.
+
+Federation allows the system to scale in a way that reflects the diversity of the landscapes and people it serves — without imposing top-down control or flattening local knowledge.
+
+
+
 
 ### Why Federation Matters
 
