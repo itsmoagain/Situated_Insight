@@ -1,14 +1,14 @@
 # Core Concepts & Philosophies
-## Adaptation
+### Adaptation
 The ongoing adjustments land stewards make in response to shifting environmental conditions. This can include changing planting schedules, adopting drought-tolerant crops, adjusting grazing rotations, or altering water management to stay resilient amid climate stressors.
 
-## Participation is Verification
+### Participation is Verification
 The principle that meaningful engagement by land stewards—such as logging practices, sharing context, or contributing knowledge—is itself a form of verification. This reframes trust and accountability around lived experience rather than external audits alone.
 
-## Feed Farmers First
+### Feed Farmers First
 A design ethic that puts land stewards and primary contributors at the center of value flows. Before data is extracted for institutional or market use, the system should provide insights, recognition, or material benefit to those doing the work.
 
-## Bioregional
+### Bioregional
 Describes systems and governance structures based on ecological boundaries (e.g., watersheds, ecoregions) rather than political borders. Bioregional approaches honor place-based knowledge, decentralized authority, and stewardship that reflects local realities.
 
 ## Ecological Value
