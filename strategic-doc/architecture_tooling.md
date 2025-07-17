@@ -68,7 +68,8 @@ _A deeper breakdown of this layer is available in the "Enrichment" section below
   <summary><strong>Visualization and Feedback</strong></summary>
   <p>Dashboards return enriched insights to contributors — for example, “Your composting during a heatwave likely improved microbial retention” — helping make climate action legible in real time.</p>
 </details>
-## Practice Logging and Verification
+
+## Practice Logging and Verification ##
 Logging forms the foundation of participation. It includes the act of documenting a regenerative action — applying compost, rotating pastures, planting cover crops — in a verifiable, climate-contextualized way. However, who logs, how logging happens, and where the data flows is designed flexibly, enabling both individual and cooperative-level participation.
 
 <details>
@@ -85,7 +86,6 @@ Logging forms the foundation of participation. It includes the act of documentin
 - Voice-based Logging for accessibility in low-literacy or high-oral-tradition regions</p>
 </details>
 
-&nbsp;
 
 Logging templates are co-designed with communities and may include:
 
