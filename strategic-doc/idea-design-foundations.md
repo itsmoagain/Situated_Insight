@@ -107,9 +107,25 @@ Current systems fall short because they’re built for compliance, not care:
 
 * __Metrics are disconnected:__ ESG (a corporation's Environmental Social Governance metric) frameworks strip away cultural, ecological, and adaptive nuance.
 
-What’s needed is a system that learns alongside producers — one that closes the feedback loop, recognizes climate-smart adaptation in real time, and redistributes resources accordingly.
+What’s needed is a system that __learns alongside producers__ — one that closes the feedback loop, recognizes climate-smart adaptation in real time, and redistributes resources accordingly.
 
 &nbsp;
+
+### The Shift
+
+We believe decentralized, climate-contextualized systems can build real trust — not by enforcing uniform standards, but by creating feedback loops between people, land, and data. By layering AI-enabled enrichment, peer validation, and portable credentials onto everyday practice logs, this system helps contributors turn daily decisions into visible, fundable climate action.
+&nbsp;
+
+
+| **Stage of the Journey** | **Description** |
+|--------------------------|-----------------|
+| **Input** | Logs of regenerative practices (e.g. composting, cover cropping), steward knowledge, GPS/timestamps, peer review, climate datasets (SPI, NDVI, anomalies) |
+| **Activities** | Practice logging → enriched by agents with climate context → optionally validated by cooperatives or peers → credentials issued via DAO governance |
+| **Output** | Enriched, traceable records of land-based action; contributor-facing insights; public-facing credentials; reusable data packages |
+| **Outcomes** | Contributors gain visibility, funding access, and dashboard insights; cooperatives govern their own data; DAOs can share impact without central gatekeepers |
+| **Impact** | A regenerative data economy — composable, equitable, and rooted in place — where land stewards are treated as agents of intelligence and climate care |
+
+
 
 
 ## Federation
