@@ -84,10 +84,18 @@ When land stewards log their practices and receive real-time climate enrichment,
 they gain visibility into trends, support adaptive decisions, and become recognized participants
 in global climate data systems.
 
-<img src="../diagrams/vsflow2025-05-23-1047.png" alt="Governance" width="1000"/>
-
-
 > Logging + enrichment → insight → action → recognition
+
+<figure>
+<img src="../diagrams/vsflow2025-05-23-1047.png" alt="Governance" width="1000"/>
+  <figcaption><em>Figure 1:</em> Traditional MRV vs Regenerative MRV
+</figcaption>
+</figure>
+
+
+
+&nbsp;
+
 
 ## Federation
 
