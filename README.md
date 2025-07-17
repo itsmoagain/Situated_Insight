@@ -13,26 +13,36 @@ Feel free to [open an issue](https://github.com/YOUR_REPO/issues) or reach out d
 ---
 
 ## Contents
+If you’d like to contribute ideas, propose edits, or explore a pilot collaboration,  
+feel free to [open an issue](https://github.com/itsmoagain/situated-insight/issues) or get in touch via the contact listed in the repo.
 
-### **The Idea & Design Foundations**  
-- [Guiding Principles](idea-design-foundations.md#guiding-principles)  
-- [Theory of Change](idea-design-foundations.md#theory-of-change)  
-- [Federation](idea-design-foundations.md#federation)
+---
 
-### **Architecture and Tooling**  
-- [Practice Logging & Verification](architecture_tooling.md#practice-logging--verification)  
-- [Enrichment & Reciprocal Benefit](architecture_tooling.md#enrichment--reciprocal-benefit)  
-- [Interoperability Pipelines](architecture_tooling.md#interoperability-pipelines)  
-- [AI Agents for Context and Collaboration](architecture_tooling.md#ai-agents-for-context-and-collaboration)
+## Contents
 
-### **Network Design**  
-- [Roles & Contributors](network_design.md#who-participates)  
-- [Decision Making & Consent](network_design.md#decision-making--consent)  
-- [Incentives & Mutual Value](network_design.md#incentives--mutual-value)  
-- [Launching a Local DAO](network_design.md#launching-a-local-dao)  
-- [Interoperability & Collaboration](network_design.md#interoperability--collaboration)  
-- [Resilience & Risk Management](network_design.md#resilience--risk-management)
+### The Idea & Design Foundations
 
-### **Other Sections**  
-- [Real-World Examples](real_world_examples.md#real-world-examples)  
-- [Glossary](glossary.md#glossary)
+- [Guiding Principles](situated-insight/idea-design-foundations.md#guiding-principles)  
+- [Theory of Change](situated-insight/idea-design-foundations.md#theory-of-change)  
+- [Federation](situated-insight/idea-design-foundations.md#federation)
+
+### Architecture and Tooling
+
+- [Practice Logging & Verification](situated-insight/architecture_tooling.md#practice-logging--verification)  
+- [Enrichment & Reciprocal Benefit](situated-insight/architecture_tooling.md#enrichment--reciprocal-benefit)  
+- [Interoperability Pipelines](situated-insight/architecture_tooling.md#interoperability-pipelines)  
+- [AI Agents for Context and Collaboration](situated-insight/architecture_tooling.md#ai-agents-for-context-and-collaboration)
+
+### Network Design
+
+- [Roles & Contributors](situated-insight/network_design.md#who-participates)  
+- [Decision Making & Consent](situated-insight/network_design.md#decision-making--consent)  
+- [Incentives & Mutual Value](situated-insight/network_design.md#incentives--mutual-value)  
+- [Launching a Local DAO](situated-insight/network_design.md#launching-a-local-dao)  
+- [Interoperability & Collaboration](situated-insight/network_design.md#interoperability--collaboration)  
+- [Resilience & Risk Management](situated-insight/network_design.md#resilience--risk-management)
+
+### Other Sections
+
+- [Real-World Examples](situated-insight/real_world_examples.md#real-world-examples)  
+- [Glossary](situated-insight/glossary.md#glossary)
